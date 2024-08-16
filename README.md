@@ -1,11 +1,11 @@
 ![header-background](https://user-images.githubusercontent.com/88071912/137026041-a4f06ed7-fcc4-45d7-bde5-b2ca9c2904b2.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+RabbitSheriff.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Steven+Piao.;I+AM+A+EXPERIENCED+WEB+&+BLOCKCHAIN+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    I am Professional Web developer.
+    I am Professional Web and Blockchain developer.
   <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -122,9 +122,9 @@ Alone we can do so little; together we can do so much.
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
+<!--   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="25"/>
-  </a>
+  </a> -->
   <a href="https://www.electronjs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="25"/>
   </a>
@@ -167,9 +167,9 @@ Alone we can do so little; together we can do so much.
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="25"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
+<!--   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" height="25"/>
-  </a>
+  </a> -->
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="25"/>
   </a>
@@ -215,9 +215,9 @@ Alone we can do so little; together we can do so much.
   <a href="https://vuetifyjs.com/en/" target="_blank">
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="25"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+<!--   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="25"/>
-  </a>
+  </a> -->
 </p>
 <hr>
 <br>
@@ -243,7 +243,7 @@ Alone we can do so little; together we can do so much.
     <img src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
   </div>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webpointdev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stevenpiao0822&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
   
   <br>
 </p>
