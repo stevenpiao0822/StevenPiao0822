@@ -1,18 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenpiao0822&label=Profile%20views&color=0e75b6&style=flat" alt="stevenpiao0822" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+STEVEN+PIAO.;I+AM+A+FULLSTACK+WEB+DEVELOPER.;ALSO+AN+EXPERIENCED+BLOCKCHAIN+ENGINEER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
-    <h2 align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    I am Professional Web and Blockchain developer.
-  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    </h2>
-    <br>
+  
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
